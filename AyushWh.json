@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libitsayuWhYellow.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libitsayuWhYellow.so"
+      "name": "libitsayuWhGX.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libitsayuWhGX.so"
     }
   ],
   "libs2": [
@@ -11,11 +11,11 @@
       "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxxx.so"
     }
   ],
-  "expiry_date": "2026-03-29",
+  "expiry_date": "2026-04-2p",
   "title": "Application Expired",
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
-  "wh_expiry": "20251230",
-  "floating_text": "💥 DEVELOPER>@GX_KINGXX WH 4.3 PRIVATE 💥",
+  "wh_expiry": "20250630",
+  "floating_text": "💥 DEVELOPER>@GX_KINGXX WH 4.3 PREMIUM 💥",
   "left_text": "Version-4.3.0"
 }
