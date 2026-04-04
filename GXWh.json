@@ -1,0 +1,21 @@
+{
+  "libs": [
+    {
+      "name": "libgGg.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/liBgGg.so"
+    }
+  ],
+  "libs2": [
+    {
+      "name": "libxxx.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxxx.so"
+    }
+  ],
+  "expiry_date": "2026-04-20",
+  "title": "Application Expired",
+  "message": "This version has On Update. Please join our Telegram channel for the latest update.",
+  "telegram": "https://t.me/yourChannel",
+  "wh_expiry": "20250630",
+  "floating_text": "GX OFFICIAL 🎮 ~ 4.3 Wallhack",
+  "left_text": "Version-4.3.0"
+}
