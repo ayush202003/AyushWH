@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhFix.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libitsayushWhFix.so"
+      "name": "libitsayushWhVisbilty.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libitsayushWhVisbilty.so"
     }
   ],
   "libs2": [
