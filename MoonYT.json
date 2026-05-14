@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhFix.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libitsayushWhFix.so"
+      "name": "libzZz.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libzZz.so"
     }
   ],
   "libs2": [
@@ -16,6 +16,6 @@
   "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
   "wh_expiry": "20251230",
-  "floating_text": "😎WALLHACK OFFICIAL ~ ULTRA PREMIUM👺",
+  "floating_text": "WALLHACK OFFICIAL ~ ULTRA PREMIUM",
   "left_text": "Version-4.3.0"
 }
